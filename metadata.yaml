@@ -1,0 +1,57 @@
+_repo: Leather-for-Libraries_51522
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Seymour-Jones, A. (Alfred)
+    alias: Seymour-Jones, Alfred
+    birthdate: 1862
+    gutenberg_agent_id: '46448'
+    url: http://www.gutenberg.org/2009/agents/46448
+  - agent_name: Davenport, Cyril
+    alias: Davenport, Cyril James Humphries
+    birthdate: 1848
+    deathdate: 1941
+    gutenberg_agent_id: '7474'
+    url: http://www.gutenberg.org/2009/agents/7474
+  - agent_name: Williamson, F. J.
+    gutenberg_agent_id: '46449'
+    url: http://www.gutenberg.org/2009/agents/46449
+  - agent_name: Hulme, E. Wyndham
+    alias: Hulme, Edward Wyndham
+    birthdate: 1859
+    deathdate: 1954
+    gutenberg_agent_id: '46446'
+    url: http://www.gutenberg.org/2009/agents/46446
+  - agent_name: Parker, J. Gordon (James Gordon)
+    alias: Parker, James Gordon
+    birthdate: 1869
+    deathdate: 1948
+    gutenberg_agent_id: '46447'
+    url: http://www.gutenberg.org/2009/agents/46447
+description: ''
+gutenberg_issued: '2016-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51522'
+  lccn: 06002930
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leather'
+- !lcc 'Z'
+- !lcsh 'Bookbinding'
+- !lcsh 'Leather bindings (Bookbinding) -- Conservation and restoration'
+- !lcsh 'Bookbinding -- Repairing -- Handbooks, manuals, etc.'
+- !lcsh 'Bookbinding -- Materials'
+- !lcsh 'Bookbinding -- Conservation and restoration'
+- GITenberg
+tableOfContents: History of sumach tanning in England, degradation of the manufacture
+  of leather, and history of the reform movement / E.W. Hulme -- The causes of decay
+  in bookbinding leathers / J.G. Parker -- Provenance, characteristics, and values
+  of modern bookbinding leathers / A. Seymour-Jones -- The repairing and binding of
+  books for public libraries / C. Davenport -- Specification for the fittings of a
+  small bindery / F.J. Williamson.
+title: Leather for Libraries
+url: http://www.gutenberg.org/ebooks/51522
